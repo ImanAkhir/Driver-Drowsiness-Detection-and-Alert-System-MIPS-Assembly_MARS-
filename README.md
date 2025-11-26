@@ -10,7 +10,7 @@ If an unsafe pattern is detected (e.g.: eye closure + abnormal heart rate + stee
 
 ---
 
-## Features
+## 1.Features
 
 ### 1) Eye State Detection  
 User inputs:  
@@ -39,14 +39,14 @@ After each cycle, driver can choose:
 
 ---
 
-## Requirements
+## 2. Requirements
 
 - **MARS 4.5** or newer  
 To download, just search "MARS MIPS simulator" online
 
 ---
 
-## ▶ How to Run
+## 3. How to Run
 
 1. Open **MARS**
 2. Load the file:  
@@ -59,7 +59,7 @@ To download, just search "MARS MIPS simulator" online
 
 ---
 
-## Project Structure
+## 4. Project Structure
 
 ```
 📁 drowsiness-detection/
@@ -69,7 +69,7 @@ To download, just search "MARS MIPS simulator" online
 
 ---
 
-## Example Input Flow (User Interaction)
+## 5. Example Input Flow (User Interaction)
 
 ```
 Initializing Camera, Heart Rate Sensor...
@@ -91,11 +91,11 @@ Driver Unresponsive. Escalating Alert...
 
 ---
 
-## 📜 License
+## 6. License
 This project is for educational use.
 
 ---
 
-## ✨ Authors
+## 7. Authors and Credits
 Iman A., Zullaikha Z., Aisha A., Sofia M.  
 Created as part of Computer Architecture and Assembly Language group project.
